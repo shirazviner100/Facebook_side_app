@@ -1,0 +1,48 @@
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormAlbums.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormBirthDay.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormCheckIn.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormCorona.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormEventComposer.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormEvents.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormFacebook.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormMatch.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormFriends.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormGroups.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormLogin.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormPosts.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\Facebook.dll
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\Logic.dll
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\Logic.pdb
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.csprojAssemblyReference.cache
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.pdb
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\UserInterface.exe
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\UserInterface.pdb
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\Logic.dll
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\bin\Debug\Logic.pdb
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.csprojAssemblyReference.cache
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormAlbums.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormBirthDay.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormCheckIn.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormCorona.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormEventComposer.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormEvents.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormFacebook.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormMatch.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormFriends.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormGroups.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormLogin.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.FormPosts.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.exe
+C:\לימודים\שנה ב\design patterns\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\UserInterface\obj\Debug\UserInterface.pdb

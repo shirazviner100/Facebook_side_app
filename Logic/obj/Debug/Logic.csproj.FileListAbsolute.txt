@@ -1,0 +1,31 @@
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\Logic.dll
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\Logic.pdb
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\Facebook.dll
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\FbGraphApiWrapper.dll
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.Properties.Resources.resources
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csproj.GenerateResource.cache
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.dll
+C:\לימודים\שנה ב\design patterns\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.pdb
+C:\Users\Chen\Desktop\Chen\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\Logic.dll
+C:\Users\Chen\Desktop\Chen\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\Logic.pdb
+C:\Users\Chen\Desktop\Chen\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Chen\Desktop\Chen\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.Properties.Resources.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csproj.GenerateResource.cache
+C:\Users\Chen\Desktop\Chen\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Chen\Desktop\Chen\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Chen\Desktop\Chen\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.dll
+C:\Users\Chen\Desktop\Chen\C20 Ex02 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.pdb
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\Logic.dll
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\Logic.pdb
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.Properties.Resources.resources
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csproj.GenerateResource.cache
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.dll
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\obj\Debug\Logic.pdb
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\Facebook.dll
+C:\Users\Chen\Desktop\Chen\C20 Ex03 ShirazViner 206093189 ChenLugasi 312608417\Logic\bin\Debug\FbGraphApiWrapper.dll
